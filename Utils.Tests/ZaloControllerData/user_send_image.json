@@ -1,0 +1,21 @@
+﻿{
+  "event_name": "user_send_image",
+  "app_id": "1381651027887521491",
+  "sender": { "id": "9049318283933813530" },
+  "recipient": { "id": "939273697747818078" },
+  "message": {
+    "attachments": [
+      {
+        "payload": {
+          "thumbnail": "https://t.f4.photo.talk.zdn.vn/854351323551317810/a945c0cdf95908075148.jpg",
+          "url": "https://f4.photo.talk.zdn.vn/854351323551317810/a945c0cdf95908075148.jpg"
+        },
+        "type": "image"
+      }
+    ],
+    "msg_id": "7d11a285e2f103ad5ae2"
+  },
+  "timestamp": "1608276806896",
+  "user_id_by_app": "8109566748891973284",
+  "reorder_id": "1608276806875"
+}

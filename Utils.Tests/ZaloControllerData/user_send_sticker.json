@@ -1,0 +1,25 @@
+﻿{
+  "event_name": "user_send_sticker",
+  "app_id": "1381651027887521491",
+  "sender": {
+    "id": "9049318283933813530"
+  },
+  "recipient": {
+    "id": "939273697747818078"
+  },
+  "message": {
+    "attachments": [
+      {
+        "payload": {
+          "id": "83e90e033246db188257",
+          "url": "https://api.zaloapp.com/api/emoticon/oasticker?eid=2446589813898826721&size=130"
+        },
+        "type": "sticker"
+      }
+    ],
+    "msg_id": "6abc670b6f708e2cd763"
+  },
+  "timestamp": "1608281841361",
+  "user_id_by_app": "8109566748891973284",
+  "reorder_id": "1608281841431"
+}

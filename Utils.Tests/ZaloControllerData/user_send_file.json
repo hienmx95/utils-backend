@@ -1,0 +1,24 @@
+﻿{
+  "event_name": "user_send_file",
+  "app_id": "1381651027887521491",
+  "sender": { "id": "9049318283933813530" },
+  "recipient": { "id": "939273697747818078" },
+  "message": {
+    "attachments": [
+      {
+        "payload": {
+          "size": "2269262",
+          "name": "anhgif.gif",
+          "checksum": "1b069c08879c4323b3a7362155124fad",
+          "type": "gif",
+          "url": "https://zalo-file-dl9.zdn.vn/1d0af959323cdd62842d/4152031101513276362"
+        },
+        "type": "file"
+      }
+    ],
+    "msg_id": "a42fd7ec5792b6ceef81"
+  },
+  "timestamp": "1608280416462",
+  "user_id_by_app": "8109566748891973284",
+  "reorder_id": "1608280416436"
+}

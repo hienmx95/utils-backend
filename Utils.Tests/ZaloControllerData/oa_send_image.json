@@ -1,0 +1,20 @@
+﻿{
+  "event_name": "oa_send_image",
+  "app_id": "1381651027887521491",
+  "sender": { "id": "939273697747818078" },
+  "recipient": { "id": "9049318283933813530" },
+  "message": {
+    "attachments": [
+      {
+        "payload": {
+          "thumbnail": "",
+          "url": "https://brcast-msg-photo.zadn.vn/2120559852036160593/5d43844b540dbd53e41c.jpg"
+        },
+        "type": "image"
+      }
+    ],
+    "msg_id": "10d39a1bdd423c1e6551"
+  },
+  "timestamp": "1608263058245",
+  "user_id_by_app": "8109566748891973284"
+}

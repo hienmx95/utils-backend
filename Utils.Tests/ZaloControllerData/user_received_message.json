@@ -1,0 +1,23 @@
+﻿{
+  "app_id": "1381651027887521491",
+  "product": null,
+  "oa_id": null,
+  "user_id_by_app": "8109566748891973284",
+  "event_name": "user_received_message",
+  "sender": {
+    "id": "579745863508352884"
+  },
+  "recipient": {
+    "id": "3945414599622049957"
+  },
+  "message": {
+    "msg_id": "This is message id",
+    "msg_ids": null,
+    "text": null
+  },
+  "tag": null,
+  "follower": null,
+  "source": null,
+  "timestamp": "1607316812273",
+  "info": null
+}

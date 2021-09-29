@@ -1,0 +1,12 @@
+﻿{
+  "event_name": "oa_send_text",
+  "app_id": "1381651027887521491",
+  "sender": { "id": "939273697747818078" },
+  "recipient": { "id": "9049318283933813530" },
+  "message": {
+    "text": "abc",
+    "msg_id": "73c200350e6cef30b67f"
+  },
+  "timestamp": "1608262932945",
+  "user_id_by_app": "8109566748891973284"
+}
